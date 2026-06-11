@@ -52,6 +52,7 @@ The SPIFFE community maintains the SPIRE project. Information on the various SIG
 ## Further Reading
 
 - The [Scaling SPIRE guide](/doc/scaling_spire.md) covers design guidelines, recommendations, and deployment models.
+- The [Multi-tenant SPIRE Agent design approach](/doc/multitenant_agent_design.md) outlines an approach for serving multiple tenant trust domains from one node-local SPIRE Agent.
 - For an explanation of how SPIRE compares to related systems such as secret stores, identity providers, authorization policy engines and service meshes see [comparisons](https://spiffe.io/spire/comparisons/).
 
 ## Security
